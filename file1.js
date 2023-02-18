@@ -1,6 +1,1 @@
-hello world
-world
-test
-sky
-ocean
-test
+console.log("heloo")
